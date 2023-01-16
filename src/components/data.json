@@ -1,0 +1,6 @@
+[{"Name":"Sophie", "Grade" :"A", "EmployeeStandard" : "Senior-Level" , "Action" : "Delete" }, 
+{"Name":"Emily", "Grade" :"A", "EmployeeStandard" : "Senior-Level" , "Action" : "Delete" },
+{"Name":"Theodore", "Grade" :"B", "EmployeeStandard" : "Mid-Level" , "Action" : "Delete" },
+{"Name":"Luna", "Grade" :"B", "EmployeeStandard" : "Mid-Level" , "Action" : "Delete" },
+{"Name":"Penelope", "Grade" :"C", "EmployeeStandard" : "Entry-Level" , "Action" : "Delete" }
+]

@@ -1,0 +1,33 @@
+.button{
+    background-color:gray;
+    font-size: 20px;
+    width: 6cm;
+    height: 1cm;
+    color: whitesmoke;
+    margin: 20px 0;
+}
+.loginpage{
+    background-color:cornflowerblue;
+    width: 100%;
+    padding: 300px 10px;
+    display: inline-block;
+    color:whitesmoke;
+    font-style: normal;
+}
+.username{
+    align-items: center;
+    width: 8cm;
+    height: 1cm;
+    font-size: 30;
+    display: inline-block;
+    margin: 8px 0;
+}
+.password{
+    width: 8cm;
+    height: 1cm;
+    font-size: 30;
+    align-items: center;
+}
+.checkbox{
+    margin: 8px 0;
+}

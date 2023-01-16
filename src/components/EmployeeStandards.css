@@ -1,0 +1,11 @@
+.dropdown {
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    overflow: auto;
+    z-index: 1;
+    color: black;
+    padding: 12px 16px;
+    display:block;
+
+}
